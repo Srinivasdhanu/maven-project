@@ -1,0 +1,6 @@
+projectKey=in.introlligent:01-maven-webapp
+serverUrl=http://34.29.155.137:9000
+serverVersion=9.4.0.54424
+dashboardUrl=http://34.29.155.137:9000/dashboard?id=in.introlligent%3A01-maven-webapp
+ceTaskId=AYfWmh8_fFs5rd_Jcljl
+ceTaskUrl=http://34.29.155.137:9000/api/ce/task?id=AYfWmh8_fFs5rd_Jcljl
